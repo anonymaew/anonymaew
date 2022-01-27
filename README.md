@@ -1,6 +1,6 @@
 # Napat Srichan <a href="https://napatsc.com"><img alt="logo" align="right" src="https://raw.githubusercontent.com/anonymaew/ns-logo/master/ns-logo-32-w.svg"></a>
 
-[<img alt="profile" width="128px" height="128px" align="right" src="https://raw.githubusercontent.com/anonymaew/anonymaew/master/src/profile.png"/>]()
+[<img alt="profile" width="128px" height="128px" align="right" src="https://raw.githubusercontent.com/anonymaew/anonymaew/main/src/profile.png"/>]()
 
 I am a freshman majoring in Computer Science.
 
