@@ -28,7 +28,7 @@ I also enjoy rock climbing and hiking in nature!
 
 ## Stacks and Languages
 
-[<img alt="" width="64px" height="48px" fill="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>]()
+[<img alt="" width="64px" height="48px" src="https://raw.githubusercontent.com/anonymaew/anonymaew/master/src/nextjs.svg"/>]()
 [<img alt="reactjs" width="64px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>]()
 [<img alt="" width="64px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>]()
 [<img alt="" width="64px" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>]()
