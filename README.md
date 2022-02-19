@@ -22,9 +22,9 @@ I also enjoy rock climbing and hiking in nature!
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKsubUClYp0qHu9fXLHUb_Q)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/napatsc01/)
 
+<!--
 ## Stats
-
-<img width="420px" src="https://napatsc.appspot.com/github-languages-stats?day=20210129">
+-->
 
 ## Stacks and Languages
 
