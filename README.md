@@ -1,13 +1,32 @@
-![me at glacier national park](./cover.jpeg)
+# Hi There
 
-# Hi there!
+![me at glacier national park](./cover.jpeg)
 
 My name is Napat Srichan, but you can call me Pop/Paul.
 
-- a sophomore majoring in Computer Science
 - proficient at front-end and physics simulation
-- learning about back-end and artificial intelligence
+- learning back-end and artificial intelligence
 - love automation and solving everyday problems
-- a rock climbing and hiking enjoyer.
+- a rock climbing and hiking enjoyer
 
-- [💁‍♂️ About me](./about.md)
+<table className="text-center" align="center"><tr>
+<td>
+
+[📦 Projects](./projects.md)</td>
+
+<td>
+
+[📚 Blogs](./blogs.md)
+
+</td>
+<td>
+
+[📧 Contact](./contact.md)
+
+</td>
+<td>
+
+[💁‍♂️ About me](./about.md)
+
+</td>
+</tr></table>
