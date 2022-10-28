@@ -9,3 +9,5 @@ My name is Napat Srichan, but you can call me Pop/Paul.
 - learning about back-end and artificial intelligence
 - love automation and solving everyday problems
 - a rock climbing and hiking enjoyer.
+
+- [💁‍♂️ About me](./about.md)
