@@ -50,5 +50,5 @@ Email: [mail@napatsc.com](mailto:mail@napatsc.com) &emsp; GitHub: [github.com/an
 - **The University of California, Santa Cruz**: B.S. Computer Science Degree (2021 - Present)
 - **Brewster Academy**: Post Graduate Degree (2020-2021)
 - **Mahidol Wittayanusorn School**: High School Degree (2017 - 2020)
-  - [**Vehicular Traffic Using Cellular Automation Flow Model for Traffic Light Management in Intersection System**]()
+  - [**Vehicular Traffic Using Cellular Automation Flow Model for Traffic Light Management in Intersection System**](https://anonymaew.github.io/traffic-sim/)
   - [**Barcodeless Checkout System**](https://bcl-mk2.web.app): Self-checkout point of sale system using machine learning for identifying products from images.
