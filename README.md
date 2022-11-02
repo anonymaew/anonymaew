@@ -9,5 +9,4 @@ My name is Napat Srichan, but you can call me Pop/Paul.
 - love automation and solving everyday problems
 - a rock climbing and hiking enjoyer
 
-| [📦 Projects](./projects.md) | [📚 Blogs](./blogs.md) | [📧 Contact](./contact.md) | [💁‍♂️ About me](./about.md) |
-| ---------------------------- | ---------------------- | -------------------------- | ------------------------- |
+[📦 Projects](./projects.md) &emsp; [📚 Blogs](./blogs.md) &emsp; [📧 Contact](./contact.md) &emsp; [💁‍♂️ About me](./about.md)
