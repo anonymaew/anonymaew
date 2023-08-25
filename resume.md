@@ -8,47 +8,45 @@ Email: [mail@napatsc.com](mailto:mail@napatsc.com) &emsp; GitHub: [github.com/an
 
 ## Experience
 
-- **Full Stack Developer at The Study Group** (2022 - Present)  
-  The Study Group is a Thai education company focusing on creating a diverse and accessible education online platform.
+- **Web Assistant at [Humanities Division, UCSC](https://humanities.ucsc.edu)** (2023 - Present)
+  - Designed WordPress websites with responsiveness and accessibility in mind.
+  - Collaborate with the team and provided feedback regarding creative designs.
+  - Arranged streamlined workflows for the team for easier and quicker possible future maintenance.
 
+- **Full Stack Developer at The Study Group** (2022)  
   - Designed collaboratively with the team on The Study Group website.
-  - Created the responsive front-end website using ReactJS, TypeScript, and TailwindCSS.
-  - Designed and developed the back-end of the website using NextJS, tRPC API, and Prisma adapter.
+  - Created hybrid SSR/SSG front-ends using NextJS, resulting in faster loading time across all devices.
+  - Used a full type-safe stack from front-end to back-end and database, providing better developing experience.
 
 - **Computer Science Tutor at Thailand Bootcamp** (2022)  
-  I formed a team hosting a Bootcamp for high school students, teaching STEM subjects and their applications in real life.
-
-  - Designed and taught _Introduction to Computer Science with Python Language_ course and _Basic Microcontroller with MicroBit_ course to high school students.
-
-- **Front-end Developer at [TOCPC](https://tocpc.codes)** (2021)  
-  TOCPC is a website hosting a competitive programming event on the national level.
-
-  - Helped create the login page from the design provided by the team using TailwindCSS.
+  - Designed two _Introduction to Python_ courses within one week in a constrained environment.
+  - Provided interactive learning activities and their applications in real life for students.
+  - Communicated with other organizers maximizing teaching appliances' effectiveness given limited resources.
 
 - **Web Developer for [JBMouthpiece website](https://jbmouthpiece.web.app)** (2021)  
-  JBMouthpiece is a 3D-printing saxophone mouthpiece shop providing a wide range of mouthpiece types.
-
-  - Designed and developed the storefront website using ReactJS and CSS.
-  - Managed and maintained the website catalog using Firebase Firestore and Firebase Authentication.
+  - Designed and developed the storefront website with smooth animations and responsiveness in mind.
+  - Created a custom-made CMS solution using Firebase from a scratch, providing easier and smoother management solution for the specific website catalog.
 
 ## Skills
 
-**Front-end**: ReactJS, TypeScript, JavaScript, HTML, CSS  
-**Back-end**: NodeJS, ExpressJS, MySQL, PostgreSQL  
-**Framework/Library**: NextJS, TailwindCSS, Prisma, Astro  
-**Developing Tools**: Git, Docker, GitHub Actions
+**Website Stack**: NextJS, ReactJS, TypeScript, JavaScript, HTML, CSS  
+**Embedded System**: C, C++, Python  
+**Developing Tools**: Git, Docker, Shell, Make  
+**Others**: Wordpress, Hugo, Astro
 
 ## Projects
 
-- [Slug App](https://slug.napatsc.com): Progressive web application with a live metro map and UCSC dining menu.
-- [napatsc.com](https://napatsc.com): My personal website using Astro static site and Github Actions for automatic site generation.
+- [Slug App](https://slug.napatsc.com): Progressive web application of a live metro map and UCSC dining menu with fast and simplified UI.
+- [Chanuan](https://github.com/anonymaew/chanuan): Lightweight and customizable terminal dashboard with multi-threaded computation, written in C++.
+- [napatsc.com](https://napatsc.com): My personal static website using Astro and CI/CD for automatic site generation.
+- (private address): Self-hosted web services for personal uses, from a personal book library to image albums.
 - [Interactive data visualization](https://anonymaew.github.io/virus19th-graph/) of COVID-19 cases in Thailand.
-- [ASCII art generator](https://anonymaew.github.io/ascii-art/) from images using P5.js and JavaScript.
+- [ASCII art generator](https://anonymaew.github.io/ascii-art/) from images using P5.js library and JavaScript algorithm from a scratch.
 
 ## Education
 
 - **The University of California, Santa Cruz**: B.S. Computer Science Degree (2021 - Present)
-- **Brewster Academy**: Post Graduate Degree (2020-2021)
+- **Brewster Academy**: Post Graduate Degree (2020 - 2021)
 - **Mahidol Wittayanusorn School**: High School Degree (2017 - 2020)
   - [**Vehicular Traffic Using Cellular Automation Flow Model for Traffic Light Management in Intersection System**](https://anonymaew.github.io/traffic-sim/)
-  - [**Barcodeless Checkout System**](https://bcl-mk2.web.app): Self-checkout point of sale system using machine learning for identifying products from images.
+  - [**Barcodeless Checkout System**](https://bcl-mk2.web.app): POS solution using YOLO image detection for identifying products.
