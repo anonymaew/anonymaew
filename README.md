@@ -1,8 +1,8 @@
 # Napat Srichan
 
-![Paul's portrait picture](http://napatsc.com/profile.webp)  You can call me
-**Pop/Paul**. I am currently 4th year computer science undergraduate student at
-[UCSC](https://ucsc.edu).
+![Paul's portrait picture](http://napatsc.com/profile.webp)  
+You can call me **Pop/Paul**. I am currently 4th year computer science
+undergraduate student at [UCSC](https://ucsc.edu).
 
 - Interested in AI/LLM and its applications; currently researching [machine
 translation](https://github.com/anonymaew/translation-engine)
