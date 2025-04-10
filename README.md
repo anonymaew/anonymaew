@@ -1,6 +1,7 @@
 # Napat Srichan
 
-![Paul's portrait picture](http://napatsc.com/profile.webp)  
+<img src="https://napatsc.com/img/profile.webp" alt="Paul's portrait picture" align="left" width="180" height="180">
+
 You can call me **Pop/Paul**. I am currently 4th year computer science
 undergraduate student at [UCSC](https://ucsc.edu).
 
